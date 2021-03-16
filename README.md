@@ -9,7 +9,7 @@ ___
 - 🔭 I’m currently working on ROS.
 - 📫 How to reach me: I'm most active on LinkedIn feel free to connect with me.
 - 👯 I’m looking to collaborate in Hackathons and projects. If you like my profile, feel free to get in touch with me!
-___
+
 <h2 align="center">⚙ Skills,Languages,Tools & Frameworks</h2>
 
 <p align="center">
