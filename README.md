@@ -52,7 +52,5 @@ ___
 <!-- ![Dipanshu's Github stats](https://github-readme-stats.vercel.app/api?username=Dipanshu089&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipanshu089&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28) -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dipanshu089&theme=dark)
-
 
 <img align="left" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=Dipanshu089.Dipanshu089"/>
